@@ -1,6 +1,6 @@
 # MechaCar_Statistical_Analysis
 
-![](images/linear_regression.png)
+![](images/linear_regression1.png)
 
 
 ![](images/lot_summary.png)
